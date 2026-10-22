@@ -1,0 +1,7 @@
+"variable","mean","sd","p25","median","p75","missing"
+"All-cause deaths (daily)",115.4,15.3,105,114,124,0
+"Cardiovascular deaths (daily)",50.9,10.4,44,50,57,0
+"Respiratory deaths (daily)",9.2,3.6,7,9,11,0
+"PM10 (ug/m3)",33.7,19.3,20.8,30.3,42.4,251
+"Temperature (C)",10.1,10.8,1.7,10.6,19.4,0
+"Relative humidity (%)",69.2,15.3,58.1,69.8,80.4,1096
